@@ -39,5 +39,5 @@ Author: [Diogo Carminatti]
 GitHub: dcarminatti
 
 ## ©️ License
-This article is licensed under the MIT License. See the [LICENSE](https://github.com/dcarminatti/nodejs-the-fellowship-of-the-api/blob/main/LICENSE) file for more details.
+This article is licensed under the MIT License. See the [LICENSE](https://github.com/dcarminatti/prompts-for-article-generate-by-ia/blob/main/LICENSE) file for more details.
 
