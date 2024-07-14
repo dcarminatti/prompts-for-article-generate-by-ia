@@ -37,7 +37,3 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Creator
 - Author: [Diogo Carminatti]
 - GitHub: [dcarminatti](https://github.com/dcarminatti)
-
-## ©️ License
-This article is licensed under the MIT License. See the [LICENSE](https://github.com/dcarminatti/prompts-for-article-generate-by-ia/blob/main/LICENSE) file for more details.
-
