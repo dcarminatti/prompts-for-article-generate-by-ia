@@ -35,8 +35,8 @@ ChatGPT：
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, canvas, libreoffice, indesign para diagramação.
 
 ## 👨‍💻 Creator
-Author: [Diogo Carminatti]
-GitHub: dcarminatti
+- Author: [Diogo Carminatti]
+- GitHub: [dcarminatti](https://github.com/dcarminatti)
 
 ## ©️ License
 This article is licensed under the MIT License. See the [LICENSE](https://github.com/dcarminatti/prompts-for-article-generate-by-ia/blob/main/LICENSE) file for more details.
